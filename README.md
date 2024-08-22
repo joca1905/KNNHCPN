@@ -88,47 +88,49 @@ The KNNHCPN opens up new possibilities for the modeling of discrete event system
 
 # References
 
-1. Witten, I.H., Frank, E., Hall, M.A.: *Data Mining: Practical Machine Learning Tools and Techniques*, vol. 3, 3rd edn. Elsevier, Burlington, MA (2011)
+[1] Witten, I.H., Frank, E., Hall, M.A.: Data Mining: Practical Machine Learning Tools and Techniques vol. 3, 3rd edn. Elsevier, Burlington, MA (2011)
 
-2. Aggarwal, C.C.: *Data Classification: Algorithms and Applications*, vol. 1, pp. 498–501. CRC Press, New York, USA (2015)
+[2] Aggarwal, C.C.: Data Classification: Algorithms and Applications vol. 1, pp. 498–501. CRC Press, New York, USA (2015)
 
-3. Nauman, M., Akhtar, N., Alhazmi, O.H., Hameed, M., Ullah, H., Khan, N.: Improving the correctness of medical diagnostics based on machine learning with coloured petri nets. *IEEE Access* 9, 143434–143447 (2021). [https://doi.org/10.1109/ACCESS.2021.3121092](https://doi.org/10.1109/ACCESS.2021.3121092)
+[3] Nauman, M., Akhtar, N., Alhazmi, O.H., Hameed, M., Ullah, H., Khan, N.: Improving the correctness of medical diagnostics based on machine learning with coloured petri nets. IEEE Access 9, 143434–143447 (2021) https://doi.org/10.1109/ACCESS.2021.3121092
 
-4. Salmon, A.Z.O., Foyo, P.M.G., Silva, J.R.: A formal approach to requirements engineering of automated systems: Facing the challenge for new automated systems. *Journal of Control, Automation and Electrical Systems* 32(4), 815–829 (2021). [https://doi.org/10.1007/s40313-021-00731-y](https://doi.org/10.1007/s40313-021-00731-y)
+[4] Salmon, A.Z.O., Foyo, P.M.G., Silva, J.R.: A formal approach to requirements engineering of automated systems: Facing the challenge for new automated systems. Journal of Control, Automation and Electrical Systems 32(4), 815–829 (2021) https://doi.org/10.1007/s40313-021-00731-y
 
-5. Hinojosa Herrera, A., Walshaw, C., Bailey, C.: Improving black box classification model veracity for electronics anomaly detection, pp. 1092–1097 (2020). [https://doi.org/10.1109/ICIEA48937.2020.9248258](https://doi.org/10.1109/ICIEA48937.2020.9248258)
+[5] Hinojosa Herrera, A., Walshaw, C., Bailey, C.: Improving black box classification model veracity for electronics anomaly detection, pp. 1092–1097 (2020). https://doi.org/10.1109/ICIEA48937.2020.9248258
 
-6. Song, Y., Huang, J., Zhou, D., Zha, H., Giles, C.L.: Iknn: Informative k-nearest neighbor pattern classification. In: Kok, J.N., Koronacki, J., Mantaras, R., Matwin, S., Mladeniˇc, D., Skowron, A. (eds.) *Knowledge Discovery in Databases: PKDD 2007*, pp. 248–264. Springer, Berlin, Heidelberg (2007)
+[6] Song, Y., Huang, J., Zhou, D., Zha, H., Giles, C.L.: Iknn: Informative k-nearest neighbor pattern classification. In: Kok, J.N., Koronacki, J., Mantaras, R., Matwin, S., Mladenić, D., Skowron, A. (eds.) Knowledge Discovery in Databases: PKDD 2007, pp. 248–264. Springer, Berlin, Heidelberg (2007)
 
-7. Costelha, H., Lima, P.: Modelling, analysis and execution of robotic tasks using petri nets, pp. 1449–1454 (2007). [https://doi.org/10.1109/IROS.2007.4399365](https://doi.org/10.1109/IROS.2007.4399365)
+[7] Costelha, H., Lima, P.: Modelling, analysis and execution of robotic tasks using petri nets, pp. 1449–1454 (2007). https://doi.org/10.1109/IROS.2007.4399365
 
-8. Albuquerque, R., Júnior, C., Barroso, G., Barreto, G.: A novel fully adaptive neural network modeling and implementation using colored petri nets. *Discrete Event Dynamic Systems* 33, 1–32 (2023). [https://doi.org/10.1007/s10626-023-00377-9](https://doi.org/10.1007/s10626-023-00377-9)
+[8] Albuquerque, R., Júnior, C., Barroso, G., Barreto, G.: A novel fully adaptive neural network modeling and implementation using colored petri nets. Discrete Event Dynamic Systems 33, 1–32 (2023) https://doi.org/10.1007/s10626-023-00377-9
 
-9. Lin, Y.-N., Hsieh, T.-Y., Yang, C.-H., Shen, V., Juang, T., Chen, W.-H.: Deep petri nets of unsupervised and supervised learning. *Measurement and Control* 53, 002029402092337 (2020). [https://doi.org/10.1177/0020294020923375](https://doi.org/10.1177/0020294020923375)
+[9] Lin, Y.-N., Hsieh, T.-Y., Yang, C.-H., Shen, V., Juang, T., Chen, W.-H.: Deep petri nets of unsupervised and supervised learning. Measurement and Control 53, 002029402092337 (2020) https://doi.org/10.1177/0020294020923375
 
-10. Wang, X., Yu, W., Ding, Z., Zhai, X., Saha, S.: Modeling and analyzing of breast tumor deterioration process with petri nets and logistic regression. *Complex System Modeling and Simulation* 2, 264–272 (2022). [https://doi.org/10.23919/CSMS.2022.0016](https://doi.org/10.23919/CSMS.2022.0016)
+[10] Wang, X., Yu, W., Ding, Z., Zhai, X., Saha, S.: Modeling and analyzing of breast tumor deterioration process with petri nets and logistic regression. Complex System Modeling and Simulation 2, 264–272 (2022) https://doi.org/10.23919/CSMS.2022.0016
 
-11. Petrosov, D.A., Lomazov, V.A., Petrosova, N.V.: Model of an artificial neural network for solving the problem of controlling a genetic algorithm using the mathematical apparatus of the theory of petri nets. *Applied Sciences* 11(9) (2021). [https://doi.org/10.3390/app11093899](https://doi.org/10.3390/app11093899)
+[11] Petrosov, D.A., Lomazov, V.A., Petrosova, N.V.: Model of an artificial neural network for solving the problem of controlling a genetic algorithm using the mathematical apparatus of the theory of petri nets. Applied Sciences 11(9) (2021) https://doi.org/10.3390/app11093899
 
-12. Riedmann, S., Harb, J., Hoher, S.: Timed Coloured Petri Net Simulation Model for Reinforcement Learning in the Context of Production Systems, pp. 457–465 (2021). [https://doi.org/10.1007/978-3-030-78424-9_51](https://doi.org/10.1007/978-3-030-78424-9_51)
+[12] Riedmann, S., Harb, J., Hoher, S.: Timed Coloured Petri Net Simulation Model for Reinforcement Learning in the Context of Production Systems, pp. 457–465 (2021). https://doi.org/10.1007/978-3-030-78424-9_51
 
-13. Fu, H., Xie, Y., Tu, J.-F.: Basis for deep learning model of discrete event system for information technology course design. *Sensors and Materials* 34(6), 2229–2241 (2022)
+[13] Fu, H., Xie, Y., Tu, J.-F.: Basis for deep learning model of discrete event system for information technology course design. Sens. Mater. 34(6), 2229–2241 (2022)
 
-14. Petri, C.A.: *Kommunikation mit Automaten* (Communication with Automata). Ph.D. thesis, University of Bonn (1962)
+[14] Petri, C.A.: Kommunikation mit automaten (communication with automata). Ph.D. thesis, University of Bonn (1962)
 
-15. Cassandras, C.G., Lafortune, S.: *Introduction to Discrete Event Systems*, 2nd edn. Springer, Boston, MA (2008)
+[15] Cassandras, C.G., Lafortune, S.: Introduction to Discrete Event Systems, 2nd edn. Springer, Boston, MA (2008)
 
-16. CPN Tools Development Group: *CPN Tools*. (Year of the latest version). Available at [http://cpntools.org](http://cpntools.org)
+[16] CPN Tools Development Group: CPN Tools. (Year of the latest version). Available at http://cpntools.org
 
-17. Jensen, K., Kristensen, L., Wells, L.: *Coloured Petri Nets and CPN Tools for Modelling and Validation of Concurrent Systems*. *Software: Practice and Experience* 9, 213–254 (2007). [https://doi.org/10.1007/s10009-007-0038-x](https://doi.org/10.1007/s10009-007-0038-x)
+[17] Jensen, K., Kristensen, L., Wells, L.: Coloured petri nets and cpn tools for modelling and validation of concurrent systems. STTT 9, 213–254 (2007) https://doi.org/10.1007/s10009-007-0038-x
 
-18. Jensen, K., Kristensen, L.: *CPN ML Programming* (2009). [https://doi.org/10.1007/b95112_3](https://doi.org/10.1007/b95112_3)
+[18] Jensen, K., Kristensen, L.: Cpn ml programming (2009) https://doi.org/10.1007/b95112_3
 
-19. Grus, J.: *Data Science from Scratch: First Principles with Python*, 2nd edn. O’Reilly Media, Inc., Sebastopol, CA (2019)
+[19] Grus, J.: Data Science from Scratch: First Principles with Python, 2nd edn. O’Reilly Media, Inc., Sebastopol, CA (2019)
 
-20. Virtual Assistant. *Microsoft Copilot*. Available at: [https://www.microsoft.com/copilot](https://www.microsoft.com/copilot) (2024)
+[20] Montgomery, D.C., Peck, E.A., Vining, G.G.: Introduction to Linear Regression Analysis, 5th edn. John Wiley & Sons, ??? (2012)
 
-21. Dash, P., Naik, B., Nayak, J., Shanmuganathan, V.: Deep belief network-based probabilistic generative model for detection of robotic manipulator failure execution. *Soft Computing* 27 (2021). [https://doi.org/10.1007/s00500-021-05572-0](https://doi.org/10.1007/s00500-021-05572-0)
+[21] Virtual Assistant. Microsoft Copilot. Available at: https://www.microsoft.com/copilot (2024)
+
+[22] Dash, P., Naik, B., Nayak, J., Shanmuganathan, V.: Deep belief network-based probabilistic generative model for detection of robotic manipulator failure execution. Soft Computing 27 (2021) https://doi.org/10.1007/s00500-021-05572-0
 
 
 # Citation
