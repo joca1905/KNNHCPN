@@ -14,20 +14,26 @@ Implementation of the k-nearest neighbors algorithm for colored Petri nets using
 
 # ⚙️ **Implementation Features** 
 
-- **Applicable to Both Classification and Regression:** The KNN algorithm implemented in coloured Petri nets (KNNHCPN) is suitable for addressing both classification and regression problems.
+- **Applicable to Both Classification and Regression:** <p align="justify">The KNN algorithm implemented in coloured Petri nets (KNNHCPN) is suitable for addressing both classification and regression problems.</p>
 
-- **Graphical Visualization:** The model in Petri nets provides a graphical visualization of the KNN algorithm, making the modeling process straightforward and user-friendly.
+- **Graphical Visualization:** <p align="justify"> The model in Petri nets provides a graphical visualization of the KNN algorithm, making the modeling process straightforward and user-friendly.</p>
 
-- **Fully Adaptable Implementation:** The method offers a highly adaptable implementation that can be used with any numerical dataset.
+- **Fully Adaptable Implementation:** <p align="justify"> The method offers a highly adaptable implementation that can be used with any numerical dataset.</p>
 
-- **Versatile Application:** This implementation is ideal for modeling discrete systems, supporting the development of a variety of new applications.
+- **Versatile Application:** <p align="justify"> This implementation is ideal for modeling discrete systems, supporting the development of a variety of new applications.</p>
 
 # :exclamation: **Instructions for using KNNHCPN for classification and regression:** 
+- **`STEP 1:`**<p align="justify"> Open the CPN tools and in the toolbox open the **NET** palette, then click on the **Load net** option and load the `knn_iris_ing.cpn` model.</p>
+- **`STEP 2:`**<p align="justify"> On the main page of the model, choose which activity will be performed by the algorithm (classification or regression). To do this, simply fire the transition (Choice Classification) or (Choice Regression).</p>
+- **`STEP 3:`**<p align="justify"> In the CPN Tools toolbox, with the model loaded, click on the `Declarations` option. Upon clicking this item, directly below `Standard declarations`, you will find the `Config model` option to adjust the model parameters. The configurable parameters are: `k` (number of nearest neighbors), `dist` (distance used for calculations), and `norm` (boolean variable, i.e., accepts `TRUE` or `FALSE` to indicate whether data normalization will be performed). For `dist`, there are currently three available functions: `euclideanDistance`, `manhattanDistance`, and `chebyshevDistance`.</p>
+- **`STEP 4:`**<p align="justify"> Enter the hierarchical network selected in Step 2, i.e., the classification or regression network. In the transitions `Load elements from test`, `Load elements training`, `Load test labels`, and `Load training labels`, adjust the links to the location on your computer where the .txt files of the training and testing databases are stored. The databases are divided into four parts: training samples, testing samples, training labels, and testing labels. Place the files in the correct locations.</p>
+- **`STEP 5:`**<p align="justify"> For a faster simulation, in the toolbox, open the `Simulation` palette and press the `Fast forward` tool. You can also adjust the value of this tool to simulate a larger number of model steps.
+</p>
 
-- **`STEP 1:`**<p align="justify"> First, on the main page of the model, choose which activity will be performed by the algorithm (classification or regression). To do this, simply fire the transition (Choice Classification) or (Choice Regression).</p>
-- **`STEP 2:`**<p align="justify"> In the CPN Tools toolbox, with the model loaded, click on the `Declarations` option. Upon clicking this item, directly below `Standard declarations`, you will find the `Config model` option to adjust the model parameters. The configurable parameters are: `k` (number of nearest neighbors), `dist` (distance used for calculations), and `norm` (boolean variable, i.e., accepts `TRUE` or `FALSE` to indicate whether data normalization will be performed). For `dist`, there are currently three available functions: `euclideanDistance`, `manhattanDistance`, and `chebyshevDistance`.</p>
-- **`STEP 3:`**<p align="justify"> Enter the hierarchical network selected in Step 1, i.e., the classification or regression network. In the transitions `Load elements from test`, `Load elements training`, `x`, and `x`, adjust the links to the location on your computer where the .txt files of the training and testing databases are stored. The databases are divided into four parts: training samples, testing samples, training labels, and testing labels. Place the files in the correct locations.</p>
-- **`STEP 4:`**<p align="justify"> For a faster simulation, in the toolbox, open the `Simulation` palette and press the `Fast forward` tool. You can also adjust the value of this tool to simulate a larger number of model steps.
+# :bulb: **Simulation of discrete event systems** 
+![KNNHCPN_planta](https://github.com/joca1905/KNNHCPN/blob/4bf7f5a288cd7ddbf00a483bb88d681a1e0a4605/Planta.png)
+<p align="justify">
+The KNNHCPN opens up new possibilities for the modeling of discrete event systems, and it can be integrated into other models to perform classification and regression tasks.
 </p>
 
 # Authors
@@ -57,7 +63,7 @@ Implementation of the k-nearest neighbors algorithm for colored Petri nets using
     </td>
     <td>
       <strong>Giovanni Cordeiro Barroso</strong><br>
-      <sub>Full Professor at the Federal University of Ceará</sub>
+      <sub>Full professor at the Federal University of Ceará</sub>
     </td>
   </tr>
   <tr>
@@ -75,7 +81,7 @@ Implementation of the k-nearest neighbors algorithm for colored Petri nets using
     </td>
     <td>
       <strong>Márcio André Baima Amora</strong><br>
-      <sub>Associate Professor I at the Federal University of Ceará, Sobral Campus</sub>
+      <sub>Associate professor I at the Federal University of Ceará, Sobral Campus</sub>
     </td>
   </tr>
 </table>
