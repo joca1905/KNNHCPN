@@ -2,7 +2,7 @@
 # KNNHCPN
 Implementation of the k-nearest neighbors algorithm in colored Petri nets
 
-![KNNHCPN_classification](https://github.com/joca1905/KNNHCPN/blob/1c36023787b32d1ead86cf8019988ecce7ae2171/Classification_ing.png)
+![KNNHCPN_classification](https://github.com/joca1905/KNNHCPN/blob/9622ecf604c4f60df4f5246f2ef2380682118c24/Images/Classification_ing.png)
 <p align="justify">
 Implementation of the k-nearest neighbors algorithm for colored Petri nets using the CPN-tools software. The algorithm works for both classification and regression. It includes various functions implemented in CPN-ML and examples of applications in different databases. An excellent tool for those working with CPN-tools and discrete event systems.
 </p>
@@ -31,7 +31,7 @@ Implementation of the k-nearest neighbors algorithm for colored Petri nets using
 </p>
 
 # :bulb: **Simulation of discrete event systems** 
-![KNNHCPN_planta](https://github.com/joca1905/KNNHCPN/blob/4bf7f5a288cd7ddbf00a483bb88d681a1e0a4605/Planta.png)
+![KNNHCPN_planta](https://github.com/joca1905/KNNHCPN/blob/9622ecf604c4f60df4f5246f2ef2380682118c24/Images/Planta.png)
 <p align="justify">
 The KNNHCPN opens up new possibilities for the modeling of discrete event systems, and it can be integrated into other models to perform classification and regression tasks.
 </p>
@@ -41,7 +41,7 @@ The KNNHCPN opens up new possibilities for the modeling of discrete event system
 <table>
   <tr>
     <td>
-      <img src="https://github.com/joca1905/KNNHCPN/blob/1c36023787b32d1ead86cf8019988ecce7ae2171/Joaquim.jpg" alt="foto_joaquim" width="150"/>
+      <img src="https://github.com/joca1905/KNNHCPN/blob/9622ecf604c4f60df4f5246f2ef2380682118c24/Images/Joaquim.jpg" alt="foto_joaquim" width="150"/>
     </td>
     <td>
       <strong>Joaquim Osterwald Frota Moura Filho</strong><br>
@@ -50,7 +50,7 @@ The KNNHCPN opens up new possibilities for the modeling of discrete event system
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/joca1905/KNNHCPN/blob/1c36023787b32d1ead86cf8019988ecce7ae2171/Vanessa.jpg" alt="foto_vanessa" width="150"/>
+      <img src="https://github.com/joca1905/KNNHCPN/blob/9622ecf604c4f60df4f5246f2ef2380682118c24/Images/Vanessa.jpg" alt="foto_vanessa" width="150"/>
     </td>
     <td>
       <strong>Vanessa Viera</strong><br>
@@ -59,7 +59,7 @@ The KNNHCPN opens up new possibilities for the modeling of discrete event system
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/joca1905/KNNHCPN/blob/1c36023787b32d1ead86cf8019988ecce7ae2171/Giovanni.jpeg" alt="foto_gio3" width="150"/>
+      <img src="https://github.com/joca1905/KNNHCPN/blob/9622ecf604c4f60df4f5246f2ef2380682118c24/Images/Giovanni.jpeg" alt="foto_gio3" width="150"/>
     </td>
     <td>
       <strong>Giovanni Cordeiro Barroso</strong><br>
@@ -68,7 +68,7 @@ The KNNHCPN opens up new possibilities for the modeling of discrete event system
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/joca1905/KNNHCPN/blob/1c36023787b32d1ead86cf8019988ecce7ae2171/George.jpeg" alt="foto_george" width="150"/>
+      <img src="https://github.com/joca1905/KNNHCPN/blob/9622ecf604c4f60df4f5246f2ef2380682118c24/Images/George.jpeg" alt="foto_george" width="150"/>
     </td>
     <td>
       <strong>George André Pereira Thé</strong><br>
@@ -77,7 +77,7 @@ The KNNHCPN opens up new possibilities for the modeling of discrete event system
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/joca1905/KNNHCPN/blob/1c36023787b32d1ead86cf8019988ecce7ae2171/Amora.jpeg" alt="foto_amora" width="150"/>
+      <img src="https://github.com/joca1905/KNNHCPN/blob/9622ecf604c4f60df4f5246f2ef2380682118c24/Images/Amora.jpeg" alt="foto_amora" width="150"/>
     </td>
     <td>
       <strong>Márcio André Baima Amora</strong><br>
