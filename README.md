@@ -50,10 +50,10 @@ The KNNHCPN opens up new possibilities for the modeling of discrete event system
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/joca1905/KNNHCPN/blob/9622ecf604c4f60df4f5246f2ef2380682118c24/Images/Vanessa.jpg" alt="foto_vanessa" width="150"/>
+      <img src="https://github.com/joca1905/KNNHCPN/blob/1c15b254dbb96ee0a7937a4e7fa6f9f46666c97a/Images/van.jpg" alt="foto_vanessa" width="150"/>
     </td>
     <td>
-      <strong>Vanessa Viera</strong><br>
+      <strong>Vanessa Vieira de Sousa </strong><br>
       <sub>PhD student at PPGETI, Federal University of Ceará</sub>
     </td>
   </tr>
