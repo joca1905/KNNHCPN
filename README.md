@@ -126,7 +126,7 @@ The KNNHCPN opens up new possibilities for the modeling of discrete event system
 
 [19] Grus, J.: Data Science from Scratch: First Principles with Python, 2nd edn. O’Reilly Media, Inc., Sebastopol, CA (2019)
 
-[20] Montgomery, D.C., Peck, E.A., Vining, G.G.: Introduction to Linear Regression Analysis, 5th edn. John Wiley & Sons, ??? (2012)
+[20] Montgomery, D.C., Peck, E.A., Vining, G.G.: Introduction to Linear Regression Analysis, 5th edn. John Wiley & Sons, Hoboken, NJ (2012)
 
 [21] Virtual Assistant. Microsoft Copilot. Available at: https://www.microsoft.com/copilot (2024)
 
