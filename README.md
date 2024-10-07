@@ -36,6 +36,19 @@ Implementation of the k-nearest neighbors algorithm for colored Petri nets using
 The KNNHCPN opens up new possibilities for the modeling of discrete event systems, and it can be integrated into other models to perform classification and regression tasks.
 </p>
 
+# 📁 Applied Datasets
+
+| **Dataset**                                    | **Description**                                                                                                                                                               |
+|------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Iris**                                       | Available at [Iris Dataset](https://archive.ics.uci.edu/ml/datasets/iris)  |
+| **Breast Cancer Wisconsin (BCW)**              | Available at [BCW Dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)) |
+| **Adult**                                      | Available at [Adult Dataset](https://archive.ics.uci.edu/ml/datasets/adult)      |
+| **Wine**                                       | Available at [Wine Dataset](https://archive.ics.uci.edu/ml/datasets/wine)                           |
+| **Abalone**                                    | Available at [Abalone Dataset](https://archive.ics.uci.edu/ml/datasets/abalone) |
+| **Computer Hardware**                           | Available at [Computer Hardware Dataset](https://archive.ics.uci.edu/ml/datasets/Computer+Hardware) |
+| **Air Quality UCI**                            | Available at [Air Quality UCI Dataset](https://archive.ics.uci.edu/ml/datasets/Air+Quality) |
+| **Concrete Compressive Strength (CCS)**        | Available at [CCS Dataset](https://archive.ics.uci.edu/dataset/165/concrete+compressive+strength) |
+
 # Authors
 
 <table>
