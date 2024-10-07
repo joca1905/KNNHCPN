@@ -18,7 +18,7 @@ Implementation of the k-nearest neighbors algorithm for colored Petri nets using
 
 - **Graphical Visualization:** <p align="justify"> The model in Petri nets provides a graphical visualization of the KNN algorithm, making the modeling process straightforward and user-friendly.</p>
 
-- **Fully Adaptable Implementation:** <p align="justify"> The method offers a highly adaptable implementation that can be used with any numerical dataset.</p>
+- **Fully Adaptable Implementation:** <p align="justify"> The proposed method offers a fully adaptable implementation and can be used with any set of numerical data.</p>
 
 - **Versatile Application:** <p align="justify"> This implementation is ideal for modeling discrete systems, supporting the development of a variety of new applications.</p>
 
@@ -48,6 +48,7 @@ The KNNHCPN opens up new possibilities for the modeling of discrete event system
 | **Computer Hardware**                           | Available at [Computer Hardware Dataset](https://archive.ics.uci.edu/ml/datasets/Computer+Hardware) |
 | **Air Quality UCI**                            | Available at [Air Quality UCI Dataset](https://archive.ics.uci.edu/ml/datasets/Air+Quality) |
 | **Concrete Compressive Strength (CCS)**        | Available at [CCS Dataset](https://archive.ics.uci.edu/dataset/165/concrete+compressive+strength) |
+| **Robot Execution Failures (REF)**        | Available at [REF Dataset](https://archive.ics.uci.edu/dataset/138/robot+execution+failures) |
 
 # Authors
 
