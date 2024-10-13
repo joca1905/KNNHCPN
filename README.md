@@ -142,10 +142,7 @@ The KNNHCPN opens up new possibilities for the modeling of discrete event system
 
 [20] Montgomery, D.C., Peck, E.A., Vining, G.G.: Introduction to Linear Regression Analysis, 5th edn. John Wiley & Sons, Hoboken, NJ (2012)
 
-[21] Virtual Assistant. Microsoft Copilot. Available at: https://www.microsoft.com/copilot (2024)
-
-[22] Dash, P., Naik, B., Nayak, J., Shanmuganathan, V.: Deep belief network-based probabilistic generative model for detection of robotic manipulator failure execution. Soft Computing 27 (2021) https://doi.org/10.1007/s00500-021-05572-0
-
+[21] Dash, P., Naik, B., Nayak, J., Shanmuganathan, V.: Deep belief network-based probabilistic generative model for detection of robotic manipulator failure execution. Soft Computing 27 (2021) https://doi.org/10.1007/s00500-021-05572-0
 
 # Citation
 
