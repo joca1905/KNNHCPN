@@ -9,9 +9,11 @@ Implementation of the k-nearest neighbors algorithm for colored Petri nets using
 
 **:rocket: Technologies used in the project:**
 
-:computer: CPN Tools:  https://cpntools.org/
+:computer: CPN Tools: https://cpntools.org/
 :memo: Version: 4.0.1
 
+:computer: CPN IDE: https://cpnide.org/
+:memo: Version: 1.24.1031
 # ⚙️ **Implementation Features** 
 
 - **Applicable to Both Classification and Regression:** <p align="justify">The KNN algorithm implemented in coloured Petri nets (KNNHCPN) is suitable for addressing both classification and regression problems.</p>
