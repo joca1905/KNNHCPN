@@ -12,8 +12,6 @@ Implementation of the k-nearest neighbors algorithm for colored Petri nets using
 :computer: CPN Tools: https://cpntools.org/
 :memo: Version: 4.0.1
 
-:computer: CPN IDE: https://cpnide.org/
-:memo: Version: 1.24.1031
 # ⚙️ **Implementation Features** 
 
 - **Applicable to Both Classification and Regression:** <p align="justify">The KNN algorithm implemented in coloured Petri nets (KNNHCPN) is suitable for addressing both classification and regression problems.</p>
@@ -51,9 +49,10 @@ The KNNHCPN opens up new possibilities for the modeling of discrete event system
 | **Air Quality UCI**                            | Available at [Air Quality UCI Dataset](https://archive.ics.uci.edu/ml/datasets/Air+Quality) |
 | **Concrete Compressive Strength (CCS)**        | Available at [CCS Dataset](https://archive.ics.uci.edu/dataset/165/concrete+compressive+strength) |
 | **Robot Execution Failures (REF)**        | Available at [REF Dataset](https://archive.ics.uci.edu/dataset/138/robot+execution+failures) |
-
+<!--
 # Authors
 
+<!--
 <table>
   <tr>
     <td>
@@ -101,51 +100,70 @@ The KNNHCPN opens up new possibilities for the modeling of discrete event system
     </td>
   </tr>
 </table>
+-->
+
 
 # References
 
-[1] Witten, I.H., Frank, E., Hall, M.A.: Data Mining: Practical Machine Learning Tools and Techniques vol. 3, 3rd edn. Elsevier, Burlington, MA (2011)
+Aggarwal, C.C.: Data Classification: Algorithms and Applications vol. 1, pp. 498–501. CRC Press, New York, USA (2015)
 
-[2] Aggarwal, C.C.: Data Classification: Algorithms and Applications vol. 1, pp. 498–501. CRC Press, New York, USA (2015)
+Albuquerque, R., Júnior, C., Barroso, G., Barreto, G.: A novel fully adaptive neural network modeling and implementation using colored petri nets. Discrete Event Dynamic Systems 33, 1–32 (2023) https://doi.org/10.1007/s10626-023-00377-9
 
-[3] Nauman, M., Akhtar, N., Alhazmi, O.H., Hameed, M., Ullah, H., Khan, N.: Improving the correctness of medical diagnostics based on machine learning with coloured petri nets. IEEE Access 9, 143434–143447 (2021) https://doi.org/10.1109/ACCESS.2021.3121092
+Boehmke, B., Greenwell, B.M.: Hands-On Machine Learning with R, 1st edn. Chapman and Hall/CRC, ??? (2019). https://doi.org/10.1201/9780367816377
 
-[4] Salmon, A.Z.O., Foyo, P.M.G., Silva, J.R.: A formal approach to requirements engineering of automated systems: Facing the challenge for new automated systems. Journal of Control, Automation and Electrical Systems 32(4), 815–829 (2021) https://doi.org/10.1007/s40313-021-00731-y
+Chan, S.M., Ke, J.S., Chang, J.F.: Knowledge representation using fuzzy petri net. IEEE Transactions on Knowledge and Data Engineering 2(3), 311–319 (1990)
 
-[5] Hinojosa Herrera, A., Walshaw, C., Bailey, C.: Improving black box classification model veracity for electronics anomaly detection, pp. 1092–1097 (2020). https://doi.org/10.1109/ICIEA48937.2020.9248258
+Costelha, H., Lima, P.: Modelling, analysis and execution of robotic tasks using petri nets, pp. 1449–1454 (2007). https://doi.org/10.1109/IROS.2007.4399365
 
-[6] Song, Y., Huang, J., Zhou, D., Zha, H., Giles, C.L.: Iknn: Informative k-nearest neighbor pattern classification. In: Kok, J.N., Koronacki, J., Mantaras, R., Matwin, S., Mladenić, D., Skowron, A. (eds.) Knowledge Discovery in Databases: PKDD 2007, pp. 248–264. Springer, Berlin, Heidelberg (2007)
+Cassandras, C.G., Lafortune, S.: Introduction to Discrete Event Systems, 2nd edn. Springer, Boston, MA (2008)
 
-[7] Costelha, H., Lima, P.: Modelling, analysis and execution of robotic tasks using petri nets, pp. 1449–1454 (2007). https://doi.org/10.1109/IROS.2007.4399365
+CPN Tools Development Group: CPN Tools. (2018). Available at http://cpntools.org
 
-[8] Albuquerque, R., Júnior, C., Barroso, G., Barreto, G.: A novel fully adaptive neural network modeling and implementation using colored petri nets. Discrete Event Dynamic Systems 33, 1–32 (2023) https://doi.org/10.1007/s10626-023-00377-9
+Dash, P., Naik, B., Nayak, J., Shanmuganathan, V.: Deep belief network-based probabilistic generative model for detection of robotic manipulator failure execution. Soft Computing 27 (2021) https://doi.org/10.1007/s00500-021-05572-0
 
-[9] Lin, Y.-N., Hsieh, T.-Y., Yang, C.-H., Shen, V., Juang, T., Chen, W.-H.: Deep petri nets of unsupervised and supervised learning. Measurement and Control 53, 002029402092337 (2020) https://doi.org/10.1177/0020294020923375
+Faceli, K., Lorena, A.C., Gama, J., Carvalho, A.C.P.: Inteligência Artificial: Uma Abordagem de Aprendizado de Máquina vol. 1. LTC, Rio de Janeiro (2011)
 
-[10] Wang, X., Yu, W., Ding, Z., Zhai, X., Saha, S.: Modeling and analyzing of breast tumor deterioration process with petri nets and logistic regression. Complex System Modeling and Simulation 2, 264–272 (2022) https://doi.org/10.23919/CSMS.2022.0016
+Fu, H., Xie, Y., Tu, J.-F.: Basis for deep learning model of discrete event system for information technology course design. Sens. Mater. 34(6), 2229–2241 (2022)
 
-[11] Petrosov, D.A., Lomazov, V.A., Petrosova, N.V.: Model of an artificial neural network for solving the problem of controlling a genetic algorithm using the mathematical apparatus of the theory of petri nets. Applied Sciences 11(9) (2021) https://doi.org/10.3390/app11093899
+Grus, J.: Data Science from Scratch: First Principles with Python, 2nd edn. O’Reilly Media, Inc., Sebastopol, CA (2019)
 
-[12] Riedmann, S., Harb, J., Hoher, S.: Timed Coloured Petri Net Simulation Model for Reinforcement Learning in the Context of Production Systems, pp. 457–465 (2021). https://doi.org/10.1007/978-3-030-78424-9_51
+Hastie, T., Tibshirani, R., Friedman, J.: The Elements of Statistical Learning: Data Mining, Inference, and Prediction, 2nd edn. Springer, New York, NY (2009)
 
-[13] Fu, H., Xie, Y., Tu, J.-F.: Basis for deep learning model of discrete event system for information technology course design. Sens. Mater. 34(6), 2229–2241 (2022)
+Jensen, K., Kristensen, L.: Cpn ml programming (2009) https://doi.org/10.1007/b95112 3
 
-[14] Petri, C.A.: Kommunikation mit automaten (communication with automata). Ph.D. thesis, University of Bonn (1962)
+Jensen, K., Kristensen, L., Wells, L.: Coloured petri nets and cpn tools for modelling and validation of concurrent systems. STTT 9, 213–254 (2007) https://doi.org/10.1007/s10009-007-0038-x
 
-[15] Cassandras, C.G., Lafortune, S.: Introduction to Discrete Event Systems, 2nd edn. Springer, Boston, MA (2008)
+Keller, J.M., Gray, M.R., Givens, J.A.: A fuzzy k-nearest neighbor algorithm. IEEE Transactions on Systems, Man, and Cybernetics SMC-15(4), 580–585 (1985)
 
-[16] CPN Tools Development Group: CPN Tools. (Year of the latest version). Available at http://cpntools.org
+Lin, Y.-N., Hsieh, T.-Y., Yang, C.-H., Shen, V., Juang, T., Chen, W.-H.: Deep petri nets of unsupervised and supervised learning. Measurement and Control 53, 002029402092337 (2020) https://doi.org/10.1177/0020294020923375
 
-[17] Jensen, K., Kristensen, L., Wells, L.: Coloured petri nets and cpn tools for modelling and validation of concurrent systems. STTT 9, 213–254 (2007) https://doi.org/10.1007/s10009-007-0038-x
+Liu, H.C., Xu, D.H., Duan, C.Y.: Pythagorean fuzzy petri nets for knowledge representation and reasoning in large group context. IEEE Transactions on Systems, Man, and Cybernetics: Systems 51(8), 5261–5271 (2021) https://doi.org/10.1109/TSMC.2019.2949342
 
-[18] Jensen, K., Kristensen, L.: Cpn ml programming (2009) https://doi.org/10.1007/b95112_3
+Mou, X., Mao, L.X., Liu, H.C., et al.: Spherical linguistic petri nets for knowledge representation and reasoning under large group environment. IEEE Transactions on Artificial Intelligence 3(3), 402–413 (2022) https://doi.org/10.1109/TAI.2022.3140282
 
-[19] Grus, J.: Data Science from Scratch: First Principles with Python, 2nd edn. O’Reilly Media, Inc., Sebastopol, CA (2019)
+Montgomery, D.C., Peck, E.A., Vining, G.G.: Introduction to Linear Regression Analysis, 5th edn. Wiley, Hoboken, NJ (2012)
 
-[20] Montgomery, D.C., Peck, E.A., Vining, G.G.: Introduction to Linear Regression Analysis, 5th edn. John Wiley & Sons, Hoboken, NJ (2012)
+Murata, T.: Petri nets: Properties, analysis and applications. Proceedings of the IEEE 77(4), 541–580 (1989) https://doi.org/10.1109/5.24143
 
-[21] Dash, P., Naik, B., Nayak, J., Shanmuganathan, V.: Deep belief network-based probabilistic generative model for detection of robotic manipulator failure execution. Soft Computing 27 (2021) https://doi.org/10.1007/s00500-021-05572-0
+Nauman, M., Akhtar, N., Alhazmi, O.H., Hameed, M., Ullah, H., Khan, N.: Improving the correctness of medical diagnostics based on machine learning with coloured petri nets. IEEE Access 9, 143434–143447 (2021) https://doi.org/10.1109/ACCESS.2021.3121092
 
+Oliveira, Y.R.M.d., Sobrinho, A., Silva, L.D.D., Santos, D., Gorgônio, K.C., Perkusich, A.: Coloured petri nets modeling multilayer perceptron neural networks. In: 2024 IEEE International Conference on Consumer Electronics (ICCE), pp. 1–4 (2024). https://doi.org/10.1109/ICCE59016.2024.10444319
+
+Petri, C.A.: Kommunikation mit automaten (communication with automata). Ph.D. thesis, University of Bonn (1962)
+
+Petrosov, D.A., Lomazov, V.A., Petrosova, N.V.: Model of an artificial neural network for solving the problem of controlling a genetic algorithm using the mathematical apparatus of the theory of petri nets. Applied Sciences 11(9) (2021) https://doi.org/10.3390/app11093899
+
+Riedmann, S., Harb, J., Hoher, S.: Timed Coloured Petri Net Simulation Model for Reinforcement Learning in the Context of Production Systems, pp. 457–465 (2021). https://doi.org/10.1007/978-3-030-78424-9_51
+
+Salmon, A.Z.O., Foyo, P.M.G., Silva, J.R.: A formal approach to requirements engineering of automated systems: Facing the challenge for new automated systems. Journal of Control, Automation and Electrical Systems 32(4), 815–829 (2021) https://doi.org/10.1007/s40313-021-00731-y
+
+Song, Y., Huang, J., Zhou, D., Zha, H., Giles, C.L.: Iknn: Informative k-nearest neighbor pattern classification. In: Kok, J.N., Koronacki, J., Mantaras, R., Matwin, S., Mladenic, D., Skowron, A. (eds.) Knowledge Discovery in Databases: PKDD 2007, pp. 248–264. Springer, Berlin, Heidelberg (2007)
+
+Witten, I.H., Frank, E., Hall, M.A.: Data Mining: Practical Machine Learning Tools and Techniques vol. 3, 3rd edn. Elsevier, Burlington, MA (2011)
+
+Zhou, J.: A fuzzy petri-net approach for fault analysis considering factor influences. IEEE Access 8, 72229–72238 (2020) https://doi.org/10.1109/ACCESS.2020.2986306
+
+<!--
 # Citation
 
 If this repository helps you in any way, consider citing our paper as follows:
