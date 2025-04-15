@@ -31,7 +31,7 @@ Implementation of the k-nearest neighbors algorithm for colored Petri nets using
 </p>
 
 # :bulb: **Simulation of discrete event systems** 
-![KNNHCPN_planta](https://github.com/joca1905/KNNHCPN/blob/9622ecf604c4f60df4f5246f2ef2380682118c24/Images/Planta.png)
+![KNNHCPN_planta](https://github.com/joca1905/KNNHCPN/blob/main/Images/planta.png)
 <p align="justify">
 The KNNHCPN opens up new possibilities for the modeling of discrete event systems, and it can be integrated into other models to perform classification and regression tasks.
 </p>
