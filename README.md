@@ -202,7 +202,6 @@ Yeh, I.-C. (1998). Concrete Compressive Strength. UCI Machine Learning Repositor
 
 Zhou, J. (2020). A fuzzy petri-net approach for fault analysis considering factor influences. *IEEE Access, 8*, 72229–72238. https://doi.org/10.1109/ACCESS.2020.2986306  
 
---
 # Citation
 
 If this repository helps you in any way, consider citing our paper as follows:
