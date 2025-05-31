@@ -7,12 +7,12 @@ Implementation of the k-nearest neighbors algorithm in colored Petri nets
 Implementation of the k-nearest neighbors algorithm for colored Petri nets using the CPN-tools software. The algorithm works for both classification and regression. It includes various functions implemented in CPN-ML and examples of applications in different databases. An excellent tool for those working with CPN-tools and discrete event systems.
 </p>
 
-## 📄 Artigo 
+## 📄 Paper
 
-O projeto está descrito no seguinte artigo:
+The project is described in the following paper:
 [Development and Modeling of the K-Nearest Neighbors Algorithm Using Coloured Petri Nets](https://link.springer.com/article/10.1007/s40313-025-01176-3)
 
-**:rocket: Technologies used in the project:**
+## :rocket: Technologies used in the project:
 
 :computer: CPN Tools: https://cpntools.org/
 :memo: Version: 4.0.1
